@@ -24,6 +24,7 @@ than others, and some issue reports are more descriptive than others.  There may
 
 * arrays
 * file i/o
-
+* classes
+* Struct
 
 The coding conventions used in this code are modelled on the documented located here: http://zeus.cs.pacificu.edu/chadd/cs300f11/coding.C.v6.pdf

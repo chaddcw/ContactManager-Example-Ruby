@@ -7,7 +7,7 @@
 # Purpose:		Provide a class containing an array of ContactEntries
 ##############################################################################
 
-require "ContactEntry.rb"
+require_relative "ContactEntry.rb"
 
 class ContactDataStore
 		
